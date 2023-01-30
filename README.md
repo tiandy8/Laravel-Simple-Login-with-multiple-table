@@ -11,9 +11,16 @@ don't forget php artisan migrate:fresh --seed
 
 file yang di edit:
 web php
+
 auth php
+
 controller
+
 Database seeder
+
 Model di teacher ditambah authenticable
+
 migration
+
 views
+
