@@ -10,17 +10,18 @@ localhost:8000/login-teacher (login guru)
 don't forget php artisan migrate:fresh --seed
 
 file yang di edit:
-web php
 
-auth php
+-web php
 
-controller
+-auth php
 
-Database seeder
+-controller
 
-Model di teacher ditambah authenticable
+-Database seeder
 
-migration
+-Model di teacher ditambah authenticable
 
-views
+-migration
+
+-views
 
